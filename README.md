@@ -5,6 +5,7 @@ choruslux
 
 ###HTML5 Video
 1. https://handbrake.fr/ - video encoding and compression
+2. http://www.w3.org/2010/05/video/mediaevents.html - html5 video events
 
 ###CSS Animation with masking
 1. Canvas - to align mask with photo
